@@ -1,3 +1,6 @@
 {
-  "chatgpt.openOnStartup": true
+  "chatgpt.openOnStartup": true,
+  "explorer.compactFolders": false,
+  "explorer.autoReveal": false,
+  "explorer.expandSingleFolderWorkspaces": false
 }
