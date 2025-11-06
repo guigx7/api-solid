@@ -1,9 +1,7 @@
 #APP
-
 Gympass style app.
 
-##RFs
-
+#RFs
 - Deve ser possível se cadastrar
 - Deve ser possível se autenticar
 - Deve ser possível obter o perfil de um usuário
@@ -17,7 +15,6 @@ Gympass style app.
 - Deve ser possível cadastrar uma academia
 
 #RNs
-
 - O usuário não deve poder se cadastrar com um e-mail duplicado
 - O usuário não pode fazer mais de um check-in no mesmo dia
 - O usuário não pode fazer check-in se estiver a mais de 100 metros da academia
@@ -26,7 +23,6 @@ Gympass style app.
 - A academia só pode ser cadastrada por administradores
 
 #RNFs
-
 - A senha do usuário deve estar criptografada
 - Os dados da aplicação precisam estar persistidos em um banco PostgreSQL
 - Todas as listas de dados devem estar paginadas com 20 itens por página
