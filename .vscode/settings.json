@@ -2,5 +2,7 @@
   "chatgpt.openOnStartup": true,
   "explorer.compactFolders": false,
   "explorer.autoReveal": false,
-  "explorer.expandSingleFolderWorkspaces": false
+  "explorer.expandSingleFolderWorkspaces": false,
+  "editor.fontFamily": "JetBrains Mono, Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontLigatures": true
 }
